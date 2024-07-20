@@ -86,8 +86,8 @@
   [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/amanshrivansh/)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman0110-bot&show_icons=true&locale=en&layout=compact" alt="aman0110-bot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanShrivansh&show_icons=true&locale=en&layout=compact" alt="aman0110-bot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman0110-bot&show_icons=true&locale=en" alt="aman0110-bot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanShrivansh&show_icons=true&locale=en" alt="aman0110-bot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman0110-bot&" alt="aman0110-bot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanShrivansh&" alt="aman0110-bot" /></p>
